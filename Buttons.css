@@ -1,0 +1,62 @@
+.Buttons
+{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(244, 244, 244);
+    position: relative;
+    padding-top: 14px;
+}
+.dart1
+{
+    position: absolute;
+    width: 130px;
+    left: 110px;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif; ;
+    padding: 7px 5px;
+    border-radius: 17px;
+    font-size: 15px;
+    color: rgb(110, 110, 115);
+    border-width: 1px;
+    cursor: pointer;
+}
+.dart1:hover
+{
+   background-color: black;
+   color: white;
+}
+.dart2
+{
+    position: absolute;
+    width: 130px;
+    left: 250px;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif; ;
+    padding: 7px 5px;
+    border-radius: 17px;
+    font-size: 15px;
+    color: rgb(110, 110, 115);
+    border-width: 1px;
+    cursor: pointer;
+}
+.dart2:hover
+{
+   background-color: black;
+   color: white;
+}
+.dart3
+{
+    position: absolute;
+    width: 130px;
+    left: 390px;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif; ;
+    padding: 7px 5px;
+    border-radius: 17px;
+    font-size: 15px;
+    color: rgb(110, 110, 115);
+    border-width: 1px;
+    cursor: pointer;
+}
+.dart3:hover
+{
+   background-color: black;
+   color: white;
+}

@@ -1,0 +1,60 @@
+.Floor3
+{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(244, 244, 244);
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 13px;
+    white-space: -10px;
+}
+.mask50
+{
+    width: 380px;
+    
+    cursor: pointer;
+    transition: transform 0.8s;
+}
+.mask50:hover
+{
+  transform: scale(1.03);
+}
+.mask51
+{
+    width: 320px;
+  
+    cursor: pointer;
+    transition: transform 0.8s;
+}
+.mask51:hover
+{
+  transform: scale(1.03);
+}
+.mask52
+{
+    width: 320px;
+   
+    cursor: pointer;
+    transition: transform 0.8s;
+}
+.mask52:hover
+{
+  transform: scale(1.03);
+}
+.mask53
+{
+    width: 320px;
+    
+    cursor: pointer;
+    transition: transform 0.8s;
+}
+.mask53:hover
+{
+  transform: scale(1.04);
+}

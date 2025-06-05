@@ -1,0 +1,74 @@
+.MiddleUpper
+{
+    width: 1500px;
+    height: 270px;
+    background-color: rgb(244, 244, 244);
+    position: relative;
+    box-shadow: inset;
+}
+.middd
+{
+    width: 800px;
+    position: absolute;
+    top: 100px;
+    left:110px;
+    font-family:  SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    color:rgb(110, 110, 115);
+    line-height:50px;
+    letter-spacing :-0.144px;
+    line-height:52.0077px;
+    word-spacing:-7px;
+}
+.temp
+{
+    color: black;
+}
+.midimg
+{
+    position: absolute;
+    width: 35px;
+    top: 106px;
+    right: 270px;
+
+}
+.midimg2
+{
+    position: absolute;
+    width: 35px;
+    top: 159px;
+    right: 270px;
+
+}
+.prop
+{
+    position: absolute;
+    width: 150px;
+    font-size: 14px;
+    font-family: "SF Pro Text", "SF Pro Icons";
+    top: 90px;
+    right:110px;
+    padding-bottom: 0%;
+}
+.special
+{
+    color: rgb(0, 103, 237);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.prop2
+{
+    position: absolute;
+    width: 150px;
+    font-size: 14px;
+    font-family: "SF Pro Text", "SF Pro Icons";
+    top: 150px;
+    right: 110px;
+}
+.special2
+{
+    color: rgb(0, 103, 237);
+    text-decoration: underline;
+    cursor: pointer;
+}

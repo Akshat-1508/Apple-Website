@@ -1,0 +1,20 @@
+.Middle
+{
+    display: flex;
+    background-color: rgb(244, 244, 244);
+    box-shadow: inset;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    flex-shrink: 0;
+    min-width: 1290px;
+}
+
+.Middle .mac
+{
+    width: 120px;
+    cursor: pointer;
+}

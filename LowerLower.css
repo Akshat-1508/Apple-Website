@@ -1,0 +1,23 @@
+.LowerLower
+{
+  width: 1500px;
+  height: 100px;
+  background-color: rgb(244, 244, 244);
+  position: relative;
+}
+.contentlowlow
+{
+    position: absolute;
+    top: 30px;
+    left: 110px;
+    font-size :28px;
+    font-weight: 600;
+    letter-spacing :0.196px;
+    line-height :32px;
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif; 
+    color: black;
+}
+.contentlowlow2
+{
+    color: rgb(110, 110, 115);
+}
